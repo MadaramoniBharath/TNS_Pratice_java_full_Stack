@@ -12,7 +12,7 @@ public class Person {
 		this.name = name;
 	}
 	public int getIncome() {
-		return income;
+		return income; 
 	}
 	public void setIncome(int income) {
 		this.income = income;
@@ -27,7 +27,6 @@ public class Person {
 	public String toString() {
 		return "Person [name=" + name + ", income=" + income + ", tax=" + tax + "]";
 	}
-	
 	
 	
 }

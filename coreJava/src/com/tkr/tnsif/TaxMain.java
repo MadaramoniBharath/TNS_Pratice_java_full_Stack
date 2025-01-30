@@ -18,7 +18,7 @@ public class TaxMain {
 		TaxCalculation tt = new TaxCalculation();
 		tt.calTax(pp);
 		
-		System.out.println("After tax calulation:");
+		System.out.println("After tax calulation:");  
 		System.out.println(pp);
 		
 	}
