@@ -11,9 +11,11 @@ public class ProductMain {
 		
 		pr.displayProductInfo();
 		pr1.displayProductInfo();
+		 
 		pr2.displayProductInfo();
 		
 		pr3.displayProductInfo();
+		
 		
 	}
 
